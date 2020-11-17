@@ -8,12 +8,12 @@ library(pROC)
 h2o.init(nthreads = -1)
 
 #upload dataset
-data <- read.csv("C:/Users/giuli/Google Drive/TESI/MyData_ACVD.csv", stringsAsFactors = T)
+data <- read.csv("MyData_ACVD.csv", stringsAsFactors = T)
 as.data.frame(data)
 data$Enrichment..0.control..1.case. <- as.factor(data$Enrichment..0.control..1.case.)
 data <- data[,-c(1,2)]
 
-#Qualità del dato
+#QualitÃ  del dato
 
 ########### COR ###################
 #High correlated vars
