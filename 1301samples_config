@@ -1,0 +1,1302 @@
+Sample ID	Project/Corhort	Enrichment (0:control, 1:case)
+CON.D1A	Obesity 	0
+CON.D2A	Obesity 	0
+CON.D3A	Obesity 	0
+CON.D4A	Obesity 	0
+CON.D5A	Obesity 	0
+CON.D6A	Obesity 	0
+CON.D7A	Obesity 	0
+CON.D8A	Obesity 	0
+CON.D9A	Obesity 	0
+CON.D10A	Obesity 	0
+CON.D12A	Obesity 	0
+CON.D14A	Obesity 	0
+CON.D15A	Obesity 	0
+CON.D16A	Obesity 	0
+CON.D18A	Obesity 	0
+CON.D19A	Obesity 	0
+CON.D21A	Obesity 	0
+CON.D22A	Obesity 	0
+CON.D23A	Obesity 	0
+CON.D25A	Obesity 	0
+CON.D26A	Obesity 	0
+CON.D27A	Obesity 	0
+CON.D28A	Obesity 	0
+CON.D30A	Obesity 	0
+CON.D31A	Obesity 	0
+CON.D33A	Obesity 	0
+CON.D34A	Obesity 	0
+CON.D35A	Obesity 	0
+CON.D36A	Obesity 	0
+CON.D37A	Obesity 	0
+CON.D40A	Obesity 	0
+CON.D42A	Obesity 	0
+CON.D43A	Obesity 	0
+CON.D44A	Obesity 	0
+CON.D46A	Obesity 	0
+CON.D47A	Obesity 	0
+CON.D48A	Obesity 	0
+CON.D49A	Obesity 	0
+CON.D50A	Obesity 	0
+CON.D51A	Obesity 	0
+CON.D54A	Obesity 	0
+CON.D55A	Obesity 	0
+CON.D57A	Obesity 	0
+CON.D58A	Obesity 	0
+CON.D61A	Obesity 	0
+CON.D62A	Obesity 	0
+CON.D63A	Obesity 	0
+CON.D64A	Obesity 	0
+CON.D66A	Obesity 	0
+CON.D68A	Obesity 	0
+CON.D69A	Obesity 	0
+CON.D71A	Obesity 	0
+CON.D72A	Obesity 	0
+CON.D74A	Obesity 	0
+CON.D75A	Obesity 	0
+CON.D77A	Obesity 	0
+CON.D79A	Obesity 	0
+CON.D80A	Obesity 	0
+CON.D81A	Obesity 	0
+CON.D82A	Obesity 	0
+CON.D83A	Obesity 	0
+CON.D84A	Obesity 	0
+CON.D85A	Obesity 	0
+CON.D87A	Obesity 	0
+CON.D88A	Obesity 	0
+CON.D89A	Obesity 	0
+CON.D91A	Obesity 	0
+CON.D92A	Obesity 	0
+CON.D93A	Obesity 	0
+CON.D95A	Obesity 	0
+CON.D96A	Obesity 	0
+CON.D97A	Obesity 	0
+CON.D98A	Obesity 	0
+CON.D99A	Obesity 	0
+CON.D102A	Obesity 	0
+CON.D103A	Obesity 	0
+CON.D104A	Obesity 	0
+CON.D105A	Obesity 	0
+CON.D106A	Obesity 	0
+DB05A	Obesity 	1
+DB06A	Obesity 	1
+DB11A	Obesity 	1
+DB12A	Obesity 	1
+DB13A	Obesity 	1
+DB20A	Obesity 	1
+DB23A	Obesity 	1
+DB25A	Obesity 	1
+DB27A	Obesity 	1
+DB29A	Obesity 	1
+DB32A	Obesity 	1
+DB33A	Obesity 	1
+DB34A	Obesity 	1
+DB38A	Obesity 	1
+DB39A	Obesity 	1
+DB45A	Obesity 	1
+DB46A	Obesity 	1
+DB47A	Obesity 	1
+DB49A	Obesity 	1
+DB51A	Obesity 	1
+DB52A	Obesity 	1
+DB54A	Obesity 	1
+DB55A	Obesity 	1
+DB56A	Obesity 	1
+DB57A	Obesity 	1
+DB58A	Obesity 	1
+DB59A	Obesity 	1
+DB60A	Obesity 	1
+DB63A	Obesity 	1
+DB64A	Obesity 	1
+DB66A	Obesity 	1
+DB69A	Obesity 	1
+DB70A	Obesity 	1
+DB71A	Obesity 	1
+DB72A	Obesity 	1
+DB75A	Obesity 	1
+DB76A	Obesity 	1
+DB77A	Obesity 	1
+DB79A	Obesity 	1
+DB80A	Obesity 	1
+DB81A	Obesity 	1
+DB82A	Obesity 	1
+DB83A	Obesity 	1
+DB84A	Obesity 	1
+DB87A	Obesity 	1
+DB88A	Obesity 	1
+DB89A	Obesity 	1
+DB90A	Obesity 	1
+DB91A	Obesity 	1
+DB92A	Obesity 	1
+DB93A	Obesity 	1
+DB94A	Obesity 	1
+DB95A	Obesity 	1
+DB96A	Obesity 	1
+DB97A	Obesity 	1
+DB98A	Obesity 	1
+DB99A	Obesity 	1
+DB100A	Obesity 	1
+DB103A	Obesity 	1
+DB104A	Obesity 	1
+DB108A	Obesity 	1
+DB109A	Obesity 	1
+DB110A	Obesity 	1
+DB112A	Obesity 	1
+DB113A	Obesity 	1
+DB116A	Obesity 	1
+DB117A	Obesity 	1
+DB118A	Obesity 	1
+DB119A	Obesity 	1
+DB121A	Obesity 	1
+DB122A	Obesity 	1
+DB123A	Obesity 	1
+DLF001	Type 2 diabetes	1
+DLF002	Type 2 diabetes	1
+DLF003	Type 2 diabetes	1
+DLF004	Type 2 diabetes	1
+DLF005	Type 2 diabetes	1
+DLF006	Type 2 diabetes	1
+DLF007	Type 2 diabetes	1
+DLF008	Type 2 diabetes	1
+DLF009	Type 2 diabetes	1
+DLF010	Type 2 diabetes	1
+DLF012	Type 2 diabetes	1
+DLF013	Type 2 diabetes	1
+DLF014	Type 2 diabetes	1
+DLM001	Type 2 diabetes	1
+DLM002	Type 2 diabetes	1
+DLM003	Type 2 diabetes	1
+DLM004	Type 2 diabetes	1
+DLM005	Type 2 diabetes	1
+DLM006	Type 2 diabetes	1
+DLM007	Type 2 diabetes	1
+DLM008	Type 2 diabetes	1
+DLM009	Type 2 diabetes	1
+DLM010	Type 2 diabetes	1
+DLM011	Type 2 diabetes	1
+DLM012	Type 2 diabetes	1
+DLM013	Type 2 diabetes	1
+DLM014	Type 2 diabetes	1
+DLM015	Type 2 diabetes	1
+DLM016	Type 2 diabetes	1
+DLM017	Type 2 diabetes	1
+DLM018	Type 2 diabetes	1
+DLM019	Type 2 diabetes	1
+DLM020	Type 2 diabetes	1
+DLM021	Type 2 diabetes	1
+DLM022	Type 2 diabetes	1
+DLM023	Type 2 diabetes	1
+DLM024	Type 2 diabetes	1
+DLM027	Type 2 diabetes	1
+DLM028	Type 2 diabetes	1
+DOF002	Type 2 diabetes	1
+DOF003	Type 2 diabetes	1
+DOF004	Type 2 diabetes	1
+DOF006	Type 2 diabetes	1
+DOF007	Type 2 diabetes	1
+DOF008	Type 2 diabetes	1
+DOF009	Type 2 diabetes	1
+DOF010	Type 2 diabetes	1
+DOF011	Type 2 diabetes	1
+DOF012	Type 2 diabetes	1
+DOF013	Type 2 diabetes	1
+DOF014	Type 2 diabetes	1
+DOM001	Type 2 diabetes	1
+DOM003	Type 2 diabetes	1
+DOM005	Type 2 diabetes	1
+DOM008	Type 2 diabetes	1
+DOM010	Type 2 diabetes	1
+DOM012	Type 2 diabetes	1
+DOM013	Type 2 diabetes	1
+DOM014	Type 2 diabetes	1
+DOM015	Type 2 diabetes	1
+DOM016	Type 2 diabetes	1
+DOM017	Type 2 diabetes	1
+DOM018	Type 2 diabetes	1
+DOM019	Type 2 diabetes	1
+DOM020	Type 2 diabetes	1
+DOM021	Type 2 diabetes	1
+DOM022	Type 2 diabetes	1
+DOM023	Type 2 diabetes	1
+DOM024	Type 2 diabetes	1
+DOM025	Type 2 diabetes	1
+DOM026	Type 2 diabetes	1
+NLF001	Type 2 diabetes	0
+NLF002	Type 2 diabetes	0
+NLF005	Type 2 diabetes	0
+NLF006	Type 2 diabetes	0
+NLF007	Type 2 diabetes	0
+NLF008	Type 2 diabetes	0
+NLF009	Type 2 diabetes	0
+NLF010	Type 2 diabetes	0
+NLF011	Type 2 diabetes	0
+NLF012	Type 2 diabetes	0
+NLF013	Type 2 diabetes	0
+NLF014	Type 2 diabetes	0
+NLF015	Type 2 diabetes	0
+NLM001	Type 2 diabetes	0
+NLM002	Type 2 diabetes	0
+NLM003	Type 2 diabetes	0
+NLM004	Type 2 diabetes	0
+NLM005	Type 2 diabetes	0
+NLM006	Type 2 diabetes	0
+NLM007	Type 2 diabetes	0
+NLM008	Type 2 diabetes	0
+NLM009	Type 2 diabetes	0
+NLM010	Type 2 diabetes	0
+NLM015	Type 2 diabetes	0
+NLM016	Type 2 diabetes	0
+NLM017	Type 2 diabetes	0
+NLM021	Type 2 diabetes	0
+NLM022	Type 2 diabetes	0
+NLM023	Type 2 diabetes	0
+NLM024	Type 2 diabetes	0
+NLM025	Type 2 diabetes	0
+NLM026	Type 2 diabetes	0
+NLM027	Type 2 diabetes	0
+NLM028	Type 2 diabetes	0
+NLM029	Type 2 diabetes	0
+NLM031	Type 2 diabetes	0
+NLM032	Type 2 diabetes	0
+NOF001	Type 2 diabetes	0
+NOF002	Type 2 diabetes	0
+NOF004	Type 2 diabetes	0
+NOF005	Type 2 diabetes	0
+NOF006	Type 2 diabetes	0
+NOF007	Type 2 diabetes	0
+NOF008	Type 2 diabetes	0
+NOF009	Type 2 diabetes	0
+NOF010	Type 2 diabetes	0
+NOF011	Type 2 diabetes	0
+NOF012	Type 2 diabetes	0
+NOF013	Type 2 diabetes	0
+NOF014	Type 2 diabetes	0
+NOM001	Type 2 diabetes	0
+NOM002	Type 2 diabetes	0
+NOM004	Type 2 diabetes	0
+NOM005	Type 2 diabetes	0
+NOM007	Type 2 diabetes	0
+NOM008	Type 2 diabetes	0
+NOM009	Type 2 diabetes	0
+NOM010	Type 2 diabetes	0
+NOM012	Type 2 diabetes	0
+NOM013	Type 2 diabetes	0
+NOM014	Type 2 diabetes	0
+NOM015	Type 2 diabetes	0
+NOM016	Type 2 diabetes	0
+NOM017	Type 2 diabetes	0
+NOM018	Type 2 diabetes	0
+NOM019	Type 2 diabetes	0
+NOM020	Type 2 diabetes	0
+NOM022	Type 2 diabetes	0
+NOM023	Type 2 diabetes	0
+NOM025	Type 2 diabetes	0
+NOM026	Type 2 diabetes	0
+NOM027	Type 2 diabetes	0
+NOM028	Type 2 diabetes	0
+NOM029	Type 2 diabetes	0
+CON.001	Type 2 diabetes	0
+CON.002	Type 2 diabetes	0
+CON.003	Type 2 diabetes	0
+CON.004	Type 2 diabetes	0
+CON.005	Type 2 diabetes	0
+CON.006	Type 2 diabetes	0
+CON.007	Type 2 diabetes	0
+CON.008	Type 2 diabetes	0
+CON.009	Type 2 diabetes	0
+CON.010	Type 2 diabetes	0
+CON.011	Type 2 diabetes	0
+CON.012	Type 2 diabetes	0
+CON.013	Type 2 diabetes	0
+CON.014	Type 2 diabetes	0
+CON.015	Type 2 diabetes	0
+CON.016	Type 2 diabetes	0
+CON.017	Type 2 diabetes	0
+CON.018	Type 2 diabetes	0
+CON.019	Type 2 diabetes	0
+CON.020	Type 2 diabetes	0
+CON.021	Type 2 diabetes	0
+CON.022	Type 2 diabetes	0
+CON.023	Type 2 diabetes	0
+CON.026	Type 2 diabetes	0
+CON.027	Type 2 diabetes	0
+CON.028	Type 2 diabetes	0
+CON.029	Type 2 diabetes	0
+CON.031	Type 2 diabetes	0
+CON.032	Type 2 diabetes	0
+CON.033	Type 2 diabetes	0
+CON.034	Type 2 diabetes	0
+CON.035	Type 2 diabetes	0
+CON.036	Type 2 diabetes	0
+CON.037	Type 2 diabetes	0
+CON.038	Type 2 diabetes	0
+CON.039	Type 2 diabetes	0
+CON.040	Type 2 diabetes	0
+CON.041	Type 2 diabetes	0
+CON.042	Type 2 diabetes	0
+CON.043	Type 2 diabetes	0
+CON.044	Type 2 diabetes	0
+CON.045	Type 2 diabetes	0
+CON.046	Type 2 diabetes	0
+CON.047	Type 2 diabetes	0
+CON.048	Type 2 diabetes	0
+CON.049	Type 2 diabetes	0
+CON.050	Type 2 diabetes	0
+CON.051	Type 2 diabetes	0
+CON.052	Type 2 diabetes	0
+CON.053	Type 2 diabetes	0
+CON.054	Type 2 diabetes	0
+CON.055	Type 2 diabetes	0
+CON.056	Type 2 diabetes	0
+CON.057	Type 2 diabetes	0
+CON.058	Type 2 diabetes	0
+CON.059	Type 2 diabetes	0
+CON.060	Type 2 diabetes	0
+CON.061	Type 2 diabetes	0
+CON.062	Type 2 diabetes	0
+CON.063	Type 2 diabetes	0
+CON.064	Type 2 diabetes	0
+CON.065	Type 2 diabetes	0
+CON.066	Type 2 diabetes	0
+CON.067	Type 2 diabetes	0
+CON.068	Type 2 diabetes	0
+CON.069	Type 2 diabetes	0
+CON.070	Type 2 diabetes	0
+CON.071	Type 2 diabetes	0
+CON.072	Type 2 diabetes	0
+CON.073	Type 2 diabetes	0
+CON.074	Type 2 diabetes	0
+CON.075	Type 2 diabetes	0
+CON.076	Type 2 diabetes	0
+CON.077	Type 2 diabetes	0
+CON.078	Type 2 diabetes	0
+CON.079	Type 2 diabetes	0
+CON.080	Type 2 diabetes	0
+CON.081	Type 2 diabetes	0
+CON.082	Type 2 diabetes	0
+CON.083	Type 2 diabetes	0
+CON.084	Type 2 diabetes	0
+CON.085	Type 2 diabetes	0
+CON.086	Type 2 diabetes	0
+CON.087	Type 2 diabetes	0
+CON.088	Type 2 diabetes	0
+CON.089	Type 2 diabetes	0
+CON.090	Type 2 diabetes	0
+CON.091	Type 2 diabetes	0
+CON.092	Type 2 diabetes	0
+CON.093	Type 2 diabetes	0
+CON.095	Type 2 diabetes	0
+CON.096	Type 2 diabetes	0
+CON.097	Type 2 diabetes	0
+CON.098	Type 2 diabetes	0
+CON.099	Type 2 diabetes	0
+CON.101	Type 2 diabetes	0
+CON.104	Type 2 diabetes	0
+CON.105	Type 2 diabetes	0
+CON.106	Type 2 diabetes	0
+CON.107	Type 2 diabetes	0
+T2D.001	Type 2 diabetes	1
+T2D.002	Type 2 diabetes	1
+T2D.003	Type 2 diabetes	1
+T2D.004	Type 2 diabetes	1
+T2D.005	Type 2 diabetes	1
+T2D.006	Type 2 diabetes	1
+T2D.007	Type 2 diabetes	1
+T2D.008	Type 2 diabetes	1
+T2D.009	Type 2 diabetes	1
+T2D.010	Type 2 diabetes	1
+T2D.011	Type 2 diabetes	1
+T2D.012	Type 2 diabetes	1
+T2D.013	Type 2 diabetes	1
+T2D.014	Type 2 diabetes	1
+T2D.015	Type 2 diabetes	1
+T2D.016	Type 2 diabetes	1
+T2D.017	Type 2 diabetes	1
+T2D.018	Type 2 diabetes	1
+T2D.019	Type 2 diabetes	1
+T2D.020	Type 2 diabetes	1
+T2D.021	Type 2 diabetes	1
+T2D.022	Type 2 diabetes	1
+T2D.023	Type 2 diabetes	1
+T2D.024	Type 2 diabetes	1
+T2D.025	Type 2 diabetes	1
+T2D.026	Type 2 diabetes	1
+T2D.028	Type 2 diabetes	1
+T2D.029	Type 2 diabetes	1
+T2D.030	Type 2 diabetes	1
+T2D.031	Type 2 diabetes	1
+T2D.036	Type 2 diabetes	1
+T2D.039	Type 2 diabetes	1
+T2D.040	Type 2 diabetes	1
+T2D.041	Type 2 diabetes	1
+T2D.042	Type 2 diabetes	1
+T2D.043	Type 2 diabetes	1
+T2D.044	Type 2 diabetes	1
+T2D.045	Type 2 diabetes	1
+T2D.046	Type 2 diabetes	1
+T2D.047	Type 2 diabetes	1
+T2D.048	Type 2 diabetes	1
+T2D.049	Type 2 diabetes	1
+T2D.050	Type 2 diabetes	1
+T2D.051	Type 2 diabetes	1
+T2D.052	Type 2 diabetes	1
+T2D.053	Type 2 diabetes	1
+T2D.054	Type 2 diabetes	1
+T2D.055	Type 2 diabetes	1
+T2D.056	Type 2 diabetes	1
+T2D.057	Type 2 diabetes	1
+T2D.058	Type 2 diabetes	1
+T2D.059	Type 2 diabetes	1
+T2D.060	Type 2 diabetes	1
+T2D.062	Type 2 diabetes	1
+T2D.063	Type 2 diabetes	1
+T2D.064	Type 2 diabetes	1
+T2D.065	Type 2 diabetes	1
+T2D.066	Type 2 diabetes	1
+T2D.067	Type 2 diabetes	1
+T2D.068	Type 2 diabetes	1
+T2D.069	Type 2 diabetes	1
+T2D.070	Type 2 diabetes	1
+T2D.071	Type 2 diabetes	1
+T2D.072	Type 2 diabetes	1
+T2D.073	Type 2 diabetes	1
+T2D.074	Type 2 diabetes	1
+T2D.075	Type 2 diabetes	1
+T2D.076	Type 2 diabetes	1
+T2D.077	Type 2 diabetes	1
+T2D.078	Type 2 diabetes	1
+T2D.079	Type 2 diabetes	1
+T2D.080	Type 2 diabetes	1
+T2D.081	Type 2 diabetes	1
+T2D.082	Type 2 diabetes	1
+T2D.083	Type 2 diabetes	1
+T2D.084	Type 2 diabetes	1
+T2D.085	Type 2 diabetes	1
+T2D.086	Type 2 diabetes	1
+T2D.087	Type 2 diabetes	1
+T2D.088	Type 2 diabetes	1
+T2D.089	Type 2 diabetes	1
+T2D.090	Type 2 diabetes	1
+T2D.091	Type 2 diabetes	1
+T2D.092	Type 2 diabetes	1
+T2D.093	Type 2 diabetes	1
+T2D.094	Type 2 diabetes	1
+T2D.095	Type 2 diabetes	1
+T2D.096	Type 2 diabetes	1
+T2D.097	Type 2 diabetes	1
+T2D.098	Type 2 diabetes	1
+T2D.099	Type 2 diabetes	1
+T2D.100	Type 2 diabetes	1
+T2D.101	Type 2 diabetes	1
+T2D.102	Type 2 diabetes	1
+T2D.103	Type 2 diabetes	1
+T2D.104	Type 2 diabetes	1
+T2D.105	Type 2 diabetes	1
+T2D.106	Type 2 diabetes	1
+T2D.107	Type 2 diabetes	1
+T2D.108	Type 2 diabetes	1
+D138	Rheumatoid arthritis	1
+D210	Rheumatoid arthritis	1
+D206	Rheumatoid arthritis	1
+D204	Rheumatoid arthritis	1
+D202	Rheumatoid arthritis	1
+D198	Rheumatoid arthritis	1
+D196	Rheumatoid arthritis	1
+D195	Rheumatoid arthritis	1
+D194	Rheumatoid arthritis	1
+D187	Rheumatoid arthritis	1
+D184	Rheumatoid arthritis	1
+D163	Rheumatoid arthritis	1
+D219	Rheumatoid arthritis	1
+D213	Rheumatoid arthritis	1
+C2	Rheumatoid arthritis	0
+D226	Rheumatoid arthritis	1
+D208	Rheumatoid arthritis	1
+D155	Rheumatoid arthritis	1
+D134	Rheumatoid arthritis	1
+D169	Rheumatoid arthritis	1
+D159	Rheumatoid arthritis	1
+C3	Rheumatoid arthritis	0
+C1	Rheumatoid arthritis	0
+D235	Rheumatoid arthritis	1
+D161	Rheumatoid arthritis	1
+D220	Rheumatoid arthritis	1
+D225	Rheumatoid arthritis	1
+C4	Rheumatoid arthritis	0
+D201	Rheumatoid arthritis	1
+D168	Rheumatoid arthritis	1
+D218	Rheumatoid arthritis	1
+D214	Rheumatoid arthritis	1
+D174	Rheumatoid arthritis	1
+D212	Rheumatoid arthritis	1
+D197	Rheumatoid arthritis	1
+D209	Rheumatoid arthritis	1
+D205	Rheumatoid arthritis	1
+D80	Rheumatoid arthritis	1
+C73	Rheumatoid arthritis	0
+C56	Rheumatoid arthritis	0
+C22	Rheumatoid arthritis	0
+C78	Rheumatoid arthritis	0
+C84	Rheumatoid arthritis	0
+C10	Rheumatoid arthritis	0
+C59	Rheumatoid arthritis	0
+C30	Rheumatoid arthritis	0
+C49	Rheumatoid arthritis	0
+C42	Rheumatoid arthritis	0
+C25	Rheumatoid arthritis	0
+C93	Rheumatoid arthritis	0
+C11	Rheumatoid arthritis	0
+C65	Rheumatoid arthritis	0
+C92	Rheumatoid arthritis	0
+C57	Rheumatoid arthritis	0
+D252	Rheumatoid arthritis	1
+C18	Rheumatoid arthritis	0
+C91	Rheumatoid arthritis	0
+C47	Rheumatoid arthritis	0
+D255	Rheumatoid arthritis	1
+C71	Rheumatoid arthritis	0
+C32	Rheumatoid arthritis	0
+C14	Rheumatoid arthritis	0
+C48	Rheumatoid arthritis	0
+C45	Rheumatoid arthritis	0
+C80	Rheumatoid arthritis	0
+C26	Rheumatoid arthritis	0
+C17	Rheumatoid arthritis	0
+C44	Rheumatoid arthritis	0
+C63	Rheumatoid arthritis	0
+C36	Rheumatoid arthritis	0
+C13	Rheumatoid arthritis	0
+C7	Rheumatoid arthritis	0
+C12	Rheumatoid arthritis	0
+C33	Rheumatoid arthritis	0
+C72	Rheumatoid arthritis	0
+D153	Rheumatoid arthritis	1
+C89	Rheumatoid arthritis	0
+C75	Rheumatoid arthritis	0
+C77	Rheumatoid arthritis	0
+C41	Rheumatoid arthritis	0
+D141	Rheumatoid arthritis	1
+D248	Rheumatoid arthritis	1
+CH	Rheumatoid arthritis	0
+C58	Rheumatoid arthritis	0
+C54	Rheumatoid arthritis	0
+C15H	Rheumatoid arthritis	0
+C99	Rheumatoid arthritis	0
+C40	Rheumatoid arthritis	0
+D64	Rheumatoid arthritis	1
+C51	Rheumatoid arthritis	0
+C19	Rheumatoid arthritis	0
+D246	Rheumatoid arthritis	1
+C21	Rheumatoid arthritis	0
+C35	Rheumatoid arthritis	0
+C24	Rheumatoid arthritis	0
+C50	Rheumatoid arthritis	0
+C53	Rheumatoid arthritis	0
+C55	Rheumatoid arthritis	0
+C43	Rheumatoid arthritis	0
+C27	Rheumatoid arthritis	0
+C31	Rheumatoid arthritis	0
+C76	Rheumatoid arthritis	0
+C60	Rheumatoid arthritis	0
+C34	Rheumatoid arthritis	0
+C29	Rheumatoid arthritis	0
+C69	Rheumatoid arthritis	0
+C39	Rheumatoid arthritis	0
+C52	Rheumatoid arthritis	0
+C74	Rheumatoid arthritis	0
+D264	Rheumatoid arthritis	1
+D216	Rheumatoid arthritis	1
+C62	Rheumatoid arthritis	0
+C70	Rheumatoid arthritis	0
+C90	Rheumatoid arthritis	0
+C68	Rheumatoid arthritis	0
+C20	Rheumatoid arthritis	0
+C38	Rheumatoid arthritis	0
+D90	Rheumatoid arthritis	1
+D104	Rheumatoid arthritis	1
+D79	Rheumatoid arthritis	1
+D113	Rheumatoid arthritis	1
+D86	Rheumatoid arthritis	1
+D93	Rheumatoid arthritis	1
+D82	Rheumatoid arthritis	1
+D33	Rheumatoid arthritis	1
+D60	Rheumatoid arthritis	1
+D41	Rheumatoid arthritis	1
+D100	Rheumatoid arthritis	1
+D29	Rheumatoid arthritis	1
+D53	Rheumatoid arthritis	1
+D31	Rheumatoid arthritis	1
+D55	Rheumatoid arthritis	1
+D57	Rheumatoid arthritis	1
+D44	Rheumatoid arthritis	1
+D15	Rheumatoid arthritis	1
+D25	Rheumatoid arthritis	1
+D69	Rheumatoid arthritis	1
+D73	Rheumatoid arthritis	1
+D77	Rheumatoid arthritis	1
+D98	Rheumatoid arthritis	1
+D102	Rheumatoid arthritis	1
+D108	Rheumatoid arthritis	1
+D114	Rheumatoid arthritis	1
+D118	Rheumatoid arthritis	1
+D121	Rheumatoid arthritis	1
+D122	Rheumatoid arthritis	1
+D124	Rheumatoid arthritis	1
+D126	Rheumatoid arthritis	1
+D130	Rheumatoid arthritis	1
+D132	Rheumatoid arthritis	1
+D133	Rheumatoid arthritis	1
+D135	Rheumatoid arthritis	1
+D145	Rheumatoid arthritis	1
+D147	Rheumatoid arthritis	1
+D150	Rheumatoid arthritis	1
+D157	Rheumatoid arthritis	1
+D158	Rheumatoid arthritis	1
+D166	Rheumatoid arthritis	1
+D190	Rheumatoid arthritis	1
+D188	Rheumatoid arthritis	1
+D185	Rheumatoid arthritis	1
+D182	Rheumatoid arthritis	1
+D179	Rheumatoid arthritis	1
+D178	Rheumatoid arthritis	1
+D177	Rheumatoid arthritis	1
+D173	Rheumatoid arthritis	1
+D172	Rheumatoid arthritis	1
+D47	Rheumatoid arthritis	1
+D88	Rheumatoid arthritis	1
+HD-1	Liver cirrhosis	0
+HD-10	Liver cirrhosis	0
+HD-11	Liver cirrhosis	0
+HD-12	Liver cirrhosis	0
+HD-13	Liver cirrhosis	0
+HD-14	Liver cirrhosis	0
+HD-15	Liver cirrhosis	0
+HD-16	Liver cirrhosis	0
+HD-17	Liver cirrhosis	0
+HD-18	Liver cirrhosis	0
+HD-19	Liver cirrhosis	0
+HD-2	Liver cirrhosis	0
+HD-20	Liver cirrhosis	0
+HD-21	Liver cirrhosis	0
+HD-22	Liver cirrhosis	0
+HD-23	Liver cirrhosis	0
+HD-24	Liver cirrhosis	0
+HD-25	Liver cirrhosis	0
+HD-26	Liver cirrhosis	0
+HD-27	Liver cirrhosis	0
+HD-28	Liver cirrhosis	0
+HD-29	Liver cirrhosis	0
+HD-3	Liver cirrhosis	0
+HD-30	Liver cirrhosis	0
+HD-31	Liver cirrhosis	0
+HD-32	Liver cirrhosis	0
+HD-33	Liver cirrhosis	0
+HD-34	Liver cirrhosis	0
+HD-35	Liver cirrhosis	0
+HD-36	Liver cirrhosis	0
+HD-37	Liver cirrhosis	0
+HD-38	Liver cirrhosis	0
+HD-39	Liver cirrhosis	0
+HD-4	Liver cirrhosis	0
+HD-40	Liver cirrhosis	0
+HD-41	Liver cirrhosis	0
+HD-42	Liver cirrhosis	0
+HD-43	Liver cirrhosis	0
+HD-44	Liver cirrhosis	0
+HD-45	Liver cirrhosis	0
+HD-46	Liver cirrhosis	0
+HD-47	Liver cirrhosis	0
+HD-48	Liver cirrhosis	0
+HD-49	Liver cirrhosis	0
+HD-5	Liver cirrhosis	0
+HD-50	Liver cirrhosis	0
+HD-51	Liver cirrhosis	0
+HD-52	Liver cirrhosis	0
+HD-53	Liver cirrhosis	0
+HD-54	Liver cirrhosis	0
+HD-55	Liver cirrhosis	0
+HD-56	Liver cirrhosis	0
+HD-57	Liver cirrhosis	0
+HD-58	Liver cirrhosis	0
+HD-59	Liver cirrhosis	0
+HD-6	Liver cirrhosis	0
+HD-60	Liver cirrhosis	0
+HD-61	Liver cirrhosis	0
+HD-62	Liver cirrhosis	0
+HD-63	Liver cirrhosis	0
+HD-64	Liver cirrhosis	0
+HD-65	Liver cirrhosis	0
+HD-66	Liver cirrhosis	0
+HD-67	Liver cirrhosis	0
+HD-68	Liver cirrhosis	0
+HD-69	Liver cirrhosis	0
+HD-7	Liver cirrhosis	0
+HD-70	Liver cirrhosis	0
+HD-71	Liver cirrhosis	0
+HD-72	Liver cirrhosis	0
+HD-73	Liver cirrhosis	0
+HD-74	Liver cirrhosis	0
+HD-75	Liver cirrhosis	0
+HD-76	Liver cirrhosis	0
+HD-77	Liver cirrhosis	0
+HD-78	Liver cirrhosis	0
+HD-79	Liver cirrhosis	0
+HD-8	Liver cirrhosis	0
+HD-80	Liver cirrhosis	0
+HD-81	Liver cirrhosis	0
+HD-82	Liver cirrhosis	0
+HD-83	Liver cirrhosis	0
+HD-9	Liver cirrhosis	0
+HV-1	Liver cirrhosis	0
+HV-10	Liver cirrhosis	0
+HV-11	Liver cirrhosis	0
+HV-12	Liver cirrhosis	0
+HV-13	Liver cirrhosis	0
+HV-14	Liver cirrhosis	0
+HV-15	Liver cirrhosis	0
+HV-16	Liver cirrhosis	0
+HV-17	Liver cirrhosis	0
+HV-2	Liver cirrhosis	0
+HV-20	Liver cirrhosis	0
+HV-21	Liver cirrhosis	0
+HV-22	Liver cirrhosis	0
+HV-23	Liver cirrhosis	0
+HV-25	Liver cirrhosis	0
+HV-26	Liver cirrhosis	0
+HV-27	Liver cirrhosis	0
+HV-28	Liver cirrhosis	0
+HV-29	Liver cirrhosis	0
+HV-3	Liver cirrhosis	0
+HV-30	Liver cirrhosis	0
+HV-31	Liver cirrhosis	0
+HV-4	Liver cirrhosis	0
+HV-5	Liver cirrhosis	0
+HV-6	Liver cirrhosis	0
+HV-7	Liver cirrhosis	0
+HV-8	Liver cirrhosis	0
+HV-9	Liver cirrhosis	0
+LD-1	Liver cirrhosis	1
+LD-10	Liver cirrhosis	1
+LD-11	Liver cirrhosis	1
+LD-12	Liver cirrhosis	1
+LD-13	Liver cirrhosis	1
+LD-14	Liver cirrhosis	1
+LD-15	Liver cirrhosis	1
+LD-16	Liver cirrhosis	1
+LD-17	Liver cirrhosis	1
+LD-18	Liver cirrhosis	1
+LD-19	Liver cirrhosis	1
+LD-2	Liver cirrhosis	1
+LD-20	Liver cirrhosis	1
+LD-21	Liver cirrhosis	1
+LD-22	Liver cirrhosis	1
+LD-23	Liver cirrhosis	1
+LD-24	Liver cirrhosis	1
+LD-25	Liver cirrhosis	1
+LD-26	Liver cirrhosis	1
+LD-27	Liver cirrhosis	1
+LD-28	Liver cirrhosis	1
+LD-29	Liver cirrhosis	1
+LD-3	Liver cirrhosis	1
+LD-30	Liver cirrhosis	1
+LD-31	Liver cirrhosis	1
+LD-32	Liver cirrhosis	1
+LD-33	Liver cirrhosis	1
+LD-34	Liver cirrhosis	1
+LD-35	Liver cirrhosis	1
+LD-36	Liver cirrhosis	1
+LD-37	Liver cirrhosis	1
+LD-38	Liver cirrhosis	1
+LD-39	Liver cirrhosis	1
+LD-4	Liver cirrhosis	1
+LD-40	Liver cirrhosis	1
+LD-41	Liver cirrhosis	1
+LD-42	Liver cirrhosis	1
+LD-43	Liver cirrhosis	1
+LD-44	Liver cirrhosis	1
+LD-45	Liver cirrhosis	1
+LD-46	Liver cirrhosis	1
+LD-47	Liver cirrhosis	1
+LD-48	Liver cirrhosis	1
+LD-49	Liver cirrhosis	1
+LD-5	Liver cirrhosis	1
+LD-50	Liver cirrhosis	1
+LD-51	Liver cirrhosis	1
+LD-52	Liver cirrhosis	1
+LD-53	Liver cirrhosis	1
+LD-54	Liver cirrhosis	1
+LD-55	Liver cirrhosis	1
+LD-56	Liver cirrhosis	1
+LD-57	Liver cirrhosis	1
+LD-58	Liver cirrhosis	1
+LD-59	Liver cirrhosis	1
+LD-6	Liver cirrhosis	1
+LD-60	Liver cirrhosis	1
+LD-61	Liver cirrhosis	1
+LD-62	Liver cirrhosis	1
+LD-63	Liver cirrhosis	1
+LD-64	Liver cirrhosis	1
+LD-65	Liver cirrhosis	1
+LD-66	Liver cirrhosis	1
+LD-67	Liver cirrhosis	1
+LD-68	Liver cirrhosis	1
+LD-69	Liver cirrhosis	1
+LD-7	Liver cirrhosis	1
+LD-70	Liver cirrhosis	1
+LD-71	Liver cirrhosis	1
+LD-72	Liver cirrhosis	1
+LD-73	Liver cirrhosis	1
+LD-74	Liver cirrhosis	1
+LD-75	Liver cirrhosis	1
+LD-76	Liver cirrhosis	1
+LD-77	Liver cirrhosis	1
+LD-78	Liver cirrhosis	1
+LD-79	Liver cirrhosis	1
+LD-8	Liver cirrhosis	1
+LD-80	Liver cirrhosis	1
+LD-81	Liver cirrhosis	1
+LD-82	Liver cirrhosis	1
+LD-83	Liver cirrhosis	1
+LD-84	Liver cirrhosis	1
+LD-85	Liver cirrhosis	1
+LD-86	Liver cirrhosis	1
+LD-87	Liver cirrhosis	1
+LD-88	Liver cirrhosis	1
+LD-89	Liver cirrhosis	1
+LD-9	Liver cirrhosis	1
+LD-90	Liver cirrhosis	1
+LD-91	Liver cirrhosis	1
+LD-92	Liver cirrhosis	1
+LD-93	Liver cirrhosis	1
+LD-94	Liver cirrhosis	1
+LD-95	Liver cirrhosis	1
+LD-96	Liver cirrhosis	1
+LD-97	Liver cirrhosis	1
+LD-98	Liver cirrhosis	1
+LV-1	Liver cirrhosis	1
+LV-10	Liver cirrhosis	1
+LV-11	Liver cirrhosis	1
+LV-12	Liver cirrhosis	1
+LV-13	Liver cirrhosis	1
+LV-14	Liver cirrhosis	1
+LV-15	Liver cirrhosis	1
+LV-16	Liver cirrhosis	1
+LV-17	Liver cirrhosis	1
+LV-19	Liver cirrhosis	1
+LV-20	Liver cirrhosis	1
+LV-21	Liver cirrhosis	1
+LV-22	Liver cirrhosis	1
+LV-23	Liver cirrhosis	1
+LV-24	Liver cirrhosis	1
+LV-3	Liver cirrhosis	1
+LV-4	Liver cirrhosis	1
+LV-5	Liver cirrhosis	1
+LV-6	Liver cirrhosis	1
+LV-7	Liver cirrhosis	1
+LV-8	Liver cirrhosis	1
+LV-9	Liver cirrhosis	1
+N1260A	ACVD	0
+N1261A	ACVD	0
+N1262A	ACVD	0
+N1263A	ACVD	0
+N1265A	ACVD	0
+N1266A	ACVD	0
+N1267A	ACVD	0
+N1269A	ACVD	0
+N1270A	ACVD	0
+N1271A	ACVD	0
+N1272A	ACVD	0
+N1273A	ACVD	0
+N1274A	ACVD	0
+N1275A	ACVD	0
+N1276A	ACVD	0
+N1277A	ACVD	0
+N1279A	ACVD	0
+N1280A	ACVD	0
+N1285A	ACVD	0
+N1287A	ACVD	0
+N1288A	ACVD	0
+N1291A	ACVD	0
+N1292A	ACVD	0
+N1293A	ACVD	0
+N1294A	ACVD	0
+N1295A	ACVD	0
+N1296A	ACVD	0
+N1297A	ACVD	0
+N1298A	ACVD	0
+N1299A	ACVD	0
+N1300A	ACVD	0
+N1301A	ACVD	0
+N1302A	ACVD	0
+N1307A	ACVD	0
+N1309A	ACVD	0
+ZSL402A	ACVD	1
+ZSL399A	ACVD	1
+ZSL403A	ACVD	1
+ZSL404A	ACVD	1
+ZSL405A	ACVD	1
+ZSL408A	ACVD	1
+ZSL409A	ACVD	1
+ZSL401A	ACVD	1
+ZSL415A	ACVD	1
+ZSL416A	ACVD	1
+ZSL417A	ACVD	1
+ZSL422A	ACVD	1
+ZSL429A	ACVD	1
+ZSL430A	ACVD	1
+ZSL433A	ACVD	1
+ZSL435A	ACVD	1
+ZSL436A	ACVD	1
+ZSL437A	ACVD	1
+ZSL439A	ACVD	1
+ZSL446A	ACVD	1
+ZSL450A	ACVD	1
+ZSL452A	ACVD	1
+ZSL453A	ACVD	1
+ZSL454A	ACVD	1
+ZSL466A	ACVD	1
+ZSL467A	ACVD	1
+ZSL468A	ACVD	1
+ZSL475A	ACVD	1
+ZSL478A	ACVD	1
+ZSL479A	ACVD	1
+ZSL480A	ACVD	1
+ZSL482A	ACVD	1
+ZSL487A	ACVD	1
+ZSL488A	ACVD	1
+ZSL490A	ACVD	1
+ZSL492A	ACVD	1
+ZSL503A	ACVD	1
+ZSL477A	ACVD	1
+N1308A	ACVD	0
+N1268A	ACVD	0
+N1282A	ACVD	0
+N1283A	ACVD	0
+N1284A	ACVD	0
+N1286A	ACVD	0
+N1290A	ACVD	0
+ZSL495A	ACVD	1
+ZSL497A	ACVD	1
+ZSL501A	ACVD	1
+ZSL505A	ACVD	1
+ZSL510A	ACVD	1
+ZSL515A	ACVD	1
+ZSL506A	ACVD	1
+ZSL512A	ACVD	1
+ZSL516A	ACVD	1
+ZSL517A	ACVD	1
+ZSL520A	ACVD	1
+ZSL524A	ACVD	1
+ZSL525A	ACVD	1
+ZSL527A	ACVD	1
+ZSL529A	ACVD	1
+ZSL530A	ACVD	1
+ZSL532A	ACVD	1
+N1264A	ACVD	0
+ZSL444A	ACVD	1
+ZSL496A	ACVD	1
+ZSL431A	ACVD	1
+ZSL432A	ACVD	1
+N001A	ACVD	0
+N002A	ACVD	0
+N003A	ACVD	0
+N005A	ACVD	0
+N006A	ACVD	0
+N009A	ACVD	0
+N011A	ACVD	0
+N013A	ACVD	0
+N017A	ACVD	0
+N020A	ACVD	0
+N021A	ACVD	0
+N022A	ACVD	0
+N024A	ACVD	0
+N025A	ACVD	0
+N026A	ACVD	0
+N027A	ACVD	0
+N028A	ACVD	0
+N029A	ACVD	0
+N031A	ACVD	0
+N032A	ACVD	0
+N033A	ACVD	0
+N034A	ACVD	0
+N035A	ACVD	0
+N037A	ACVD	0
+N038A	ACVD	0
+N039A	ACVD	0
+N040A	ACVD	0
+N042A	ACVD	0
+N043A	ACVD	0
+N044A	ACVD	0
+N046A	ACVD	0
+N047A	ACVD	0
+N049A	ACVD	0
+N051A	ACVD	0
+N052A	ACVD	0
+N056A	ACVD	0
+N062A	ACVD	0
+N064A	ACVD	0
+N066A	ACVD	0
+N074A	ACVD	0
+N079A	ACVD	0
+N082A	ACVD	0
+N083A	ACVD	0
+N084A	ACVD	0
+N085A	ACVD	0
+N086A	ACVD	0
+N087A	ACVD	0
+N088A	ACVD	0
+N089A	ACVD	0
+N103A	ACVD	0
+N109A	ACVD	0
+N110A	ACVD	0
+N111A	ACVD	0
+N115A	ACVD	0
+N116A	ACVD	0
+N117A	ACVD	0
+N118A	ACVD	0
+N121A	ACVD	0
+N123A	ACVD	0
+N124A	ACVD	0
+N125A	ACVD	0
+N127A	ACVD	0
+N128A	ACVD	0
+N129A	ACVD	0
+N135A	ACVD	0
+N136A	ACVD	0
+N137A	ACVD	0
+N140A	ACVD	0
+N142A	ACVD	0
+N143A	ACVD	0
+N147A	ACVD	0
+N148A	ACVD	0
+N149A	ACVD	0
+N150A	ACVD	0
+N152A	ACVD	0
+N153A	ACVD	0
+N155A	ACVD	0
+ZSL.004	ACVD	1
+ZSL.007	ACVD	1
+ZSL.010	ACVD	1
+ZSL.011	ACVD	1
+ZSL.019	ACVD	1
+ZSL.022	ACVD	1
+ZSL.023	ACVD	1
+ZSL.024	ACVD	1
+ZSL.025	ACVD	1
+ZSL.028	ACVD	1
+ZSL.029	ACVD	1
+ZSL.031	ACVD	1
+ZSL.033	ACVD	1
+ZSL.035	ACVD	1
+ZSL.037	ACVD	1
+ZSL.040	ACVD	1
+ZSL.042	ACVD	1
+ZSL.044	ACVD	1
+ZSL.045	ACVD	1
+ZSL.046	ACVD	1
+ZSL.047	ACVD	1
+ZSL.050	ACVD	1
+ZSL.052	ACVD	1
+ZSL.053	ACVD	1
+ZSL.055	ACVD	1
+ZSL.057	ACVD	1
+ZSL.062	ACVD	1
+ZSL.063	ACVD	1
+ZSL.065	ACVD	1
+ZSL.066	ACVD	1
+ZSL.068	ACVD	1
+ZSL.071	ACVD	1
+ZSL.073	ACVD	1
+ZSL.074	ACVD	1
+ZSL.076	ACVD	1
+ZSL.077	ACVD	1
+ZSL.079	ACVD	1
+ZSL.080	ACVD	1
+ZSL.083	ACVD	1
+ZSL.084	ACVD	1
+ZSL.085	ACVD	1
+ZSL.086	ACVD	1
+ZSL.088	ACVD	1
+ZSL.089	ACVD	1
+ZSL.091	ACVD	1
+ZSL.092	ACVD	1
+ZSL.094	ACVD	1
+ZSL.095	ACVD	1
+ZSL.097	ACVD	1
+ZSL.098	ACVD	1
+ZSL.099	ACVD	1
+ZSL.103	ACVD	1
+ZSL.105	ACVD	1
+ZSL.111	ACVD	1
+ZSL.113	ACVD	1
+ZSL.115	ACVD	1
+ZSL.116	ACVD	1
+ZSL.120	ACVD	1
+ZSL.122	ACVD	1
+ZSL.123	ACVD	1
+ZSL.127	ACVD	1
+ZSL.128	ACVD	1
+ZSL.129	ACVD	1
+ZSL.131	ACVD	1
+ZSL.132	ACVD	1
+ZSL.133	ACVD	1
+ZSL.137	ACVD	1
+ZSL.138	ACVD	1
+ZSL.146	ACVD	1
+ZSL.151	ACVD	1
+ZSL.153	ACVD	1
+ZSL.155	ACVD	1
+ZSL_107A	ACVD	1
+ZSL_110A	ACVD	1
+ZSL_112A	ACVD	1
+ZSL_130A	ACVD	1
+ZSL_135A	ACVD	1
+ZSL_139A	ACVD	1
+ZSL_145A	ACVD	1
+ZSL_15A	ACVD	1
+ZSL_30A	ACVD	1
+ZSL_36A	ACVD	1
+ZSL_56A	ACVD	1
+ZSL_58A	ACVD	1
+ZSL_67A	ACVD	1
+ZSL_6A	ACVD	1
+ZSL_82A	ACVD	1
+ZSL_96A	ACVD	1
+N167	ACVD	0
+N168	ACVD	0
+N170	ACVD	0
+N171	ACVD	0
+N172	ACVD	0
+N173	ACVD	0
+N174	ACVD	0
+N175	ACVD	0
+N176	ACVD	0
+N182	ACVD	0
+N184	ACVD	0
+N185	ACVD	0
+N186	ACVD	0
+N187	ACVD	0
+N188	ACVD	0
+N189	ACVD	0
+N190	ACVD	0
+N191	ACVD	0
+N193	ACVD	0
+N194	ACVD	0
+N195	ACVD	0
+N197	ACVD	0
+N198	ACVD	0
+N199	ACVD	0
+N200	ACVD	0
+N201	ACVD	0
+N202	ACVD	0
+N203	ACVD	0
+N204	ACVD	0
+N206	ACVD	0
+N207	ACVD	0
+N209	ACVD	0
+N210	ACVD	0
+N213	ACVD	0
+N214	ACVD	0
+N215	ACVD	0
+N218	ACVD	0
+N220	ACVD	0
+N221	ACVD	0
+N222	ACVD	0
+N223	ACVD	0
+N224	ACVD	0
+N225	ACVD	0
+N226	ACVD	0
+N227	ACVD	0
+N231	ACVD	0
+N232	ACVD	0
+N233	ACVD	0
+N234	ACVD	0
+N235	ACVD	0
+N236	ACVD	0
+N237	ACVD	0
+N239	ACVD	0
+N240	ACVD	0
+N241	ACVD	0
+N242	ACVD	0
+N244	ACVD	0
+N245	ACVD	0
+N247	ACVD	0
+N248	ACVD	0
+N249	ACVD	0
+N251	ACVD	0
+N267	ACVD	0
+N268	ACVD	0
+N281	ACVD	0
+N287	ACVD	0
+N288	ACVD	0
+ZSL229	ACVD	1
+ZSL234	ACVD	1
+ZSL235	ACVD	1
+ZSL236	ACVD	1
+ZSL237	ACVD	1
+ZSL238	ACVD	1
+ZSL239	ACVD	1
+ZSL240	ACVD	1
+ZSL248	ACVD	1
+ZSL252	ACVD	1
+ZSL253	ACVD	1
+ZSL254	ACVD	1
+ZSL261	ACVD	1
+ZSL265	ACVD	1
+ZSL266	ACVD	1
+ZSL267	ACVD	1
+ZSL270	ACVD	1
+ZSL271	ACVD	1
+ZSL272	ACVD	1
+ZSL273	ACVD	1
+ZSL275	ACVD	1
+ZSL277	ACVD	1
+ZSL280	ACVD	1
+ZSL281	ACVD	1
+ZSL282	ACVD	1
+ZSL283	ACVD	1
+ZSL289	ACVD	1
+ZSL290	ACVD	1
+ZSL291	ACVD	1
+ZSL292	ACVD	1
+ZSL294	ACVD	1
+ZSL297	ACVD	1
+ZSL300	ACVD	1
+ZSL301	ACVD	1
+ZSL302	ACVD	1
+ZSL306	ACVD	1
+ZSL308	ACVD	1
+ZSL310	ACVD	1
+ZSL312	ACVD	1
+ZSL313	ACVD	1
+ZSL314	ACVD	1
+ZSL315	ACVD	1
+ZSL317	ACVD	1
+ZSL318	ACVD	1
+ZSL319	ACVD	1
+ZSL322	ACVD	1
+ZSL325	ACVD	1
+ZSL330	ACVD	1
+ZSL332	ACVD	1
+ZSL334	ACVD	1
+ZSL335	ACVD	1
+ZSL336	ACVD	1
+ZSL338	ACVD	1
+ZSL339	ACVD	1
+ZSL340	ACVD	1
+ZSL341A	ACVD	1
+ZSL343	ACVD	1
+ZSL349	ACVD	1
+ZSL350	ACVD	1
+ZSL353	ACVD	1
+ZSL359	ACVD	1
+ZSL365	ACVD	1
+ZSL368	ACVD	1
+ZSL369	ACVD	1
+ZSL370	ACVD	1
+ZSL374	ACVD	1
+ZSL375	ACVD	1
+ZSL376	ACVD	1
+ZSL377	ACVD	1
+ZSL378	ACVD	1
+ZSL379	ACVD	1
