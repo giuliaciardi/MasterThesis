@@ -4,10 +4,10 @@ library("stringr")
 library("readxl")
 
 #upload data
-MLG <- read.table("~/Dropbox (Kiwi)/Kiwi Team Folder/SHARED/PROGETTI/Microbioma/TESI/Cardio disease/MLG.profile", encoding="UTF-8", stringsAsFactors=FALSE)
-#KO <- read.table("~/Dropbox (Kiwi)/Kiwi Team Folder/SHARED/PROGETTI/Microbioma/TESI/Cardio disease/KO.profile", encoding="UTF-8", stringsAsFactors=FALSE)
-sample <- read.delim("~/Dropbox (Kiwi)/Kiwi Team Folder/SHARED/PROGETTI/Microbioma/TESI/Cardio disease/1301samples_config")
-infoMLG <- read.delim("~/Dropbox (Kiwi)/Kiwi Team Folder/SHARED/PROGETTI/Microbioma/TESI/Cardio disease/MLG.infor")
+MLG <- read.table("MLG.profile", encoding="UTF-8", stringsAsFactors=FALSE)
+#KO <- read.table("KO.profile", encoding="UTF-8", stringsAsFactors=FALSE)
+sample <- read.delim("1301samples_config")
+infoMLG <- read.delim("MLG.infor")
 
 #MLG aka Metagenomics linkage group
 
@@ -37,7 +37,7 @@ MLG <- cbind(sample,MLG)
 #tot campioni: 1301 / tot MLG: 1043
 MLG[,1] <- sapply(MLG[,1], as.character)
 MLG[,3] <- sapply(MLG[,3], as.factor)
-write.csv(MLG, file = "MyData_all_1k.csv",row.names=FALSE)
+#write.csv(MLG, file = "MyData_all_1k.csv",row.names=FALSE)
 
 #estraggo solo MLG classificati
 # tot MLG 683
@@ -47,7 +47,7 @@ MLG_class <- MLG %>%
 MLG_class[,1] <- sapply(MLG_class[,1], as.character)
 MLG_class[,3] <- sapply(MLG_class[,3], as.factor)
 
-write.csv(MLG_class, file = "MyData_class.csv",row.names=FALSE)
+#write.csv(MLG_class, file = "MyData_class.csv",row.names=FALSE)
 
 ########################################
 # #sommo tutti gli MLG non classificati
@@ -96,7 +96,7 @@ write.csv(MLG_ACVD, file = "MyData_ACVD.csv",row.names=FALSE)
 #aggiungo variabili cliniche
 # MLG_ACVD <- MLG_ACVD[,-2]
 # 
-# fenotipo_ACVD <- read_excel("~/Desktop/TESI/Cardio disease/41467_2017_900_MOESM3_ESM.xlsx", 
+# fenotipo_ACVD <- read_excel("41467_2017_900_MOESM3_ESM.xlsx", 
 #                             col_types = c("text", "numeric", "text", 
 #                                           "numeric", "text", "numeric", "numeric", 
 #                                           "numeric", "numeric", "numeric", 
@@ -144,7 +144,7 @@ idMLG <- infoMLG %>% filter(!str_detect(Taxonomy, 'Unclassified')) %>%
   select(MLG.ID, Taxonomy)
 idMLG$MLG.ID <- as.character(idMLG$MLG.ID)
 
-sup_data <- read_excel("Dropbox (Kiwi)/Kiwi Team Folder/SHARED/PROGETTI/Microbioma/TESI/Cardio disease/41467_2017_900_MOESM5_ESM - suppl.3.xlsx", 
+sup_data <- read_excel("41467_2017_900_MOESM5_ESM - suppl.3.xlsx", 
                        sheet = "Sheet1", col_types = c("text", "numeric", "numeric", "text", "numeric", "numeric", "numeric",
                                                        "numeric", "numeric", "numeric", "numeric", "numeric", "numeric", 
                                                        "numeric", "numeric", "text", "numeric", "numeric"))
